@@ -1,0 +1,11 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "pexpect>=4.9.0",
+    "prompt-toolkit>=3.0.50",
+    "pycodestyle>=2.12.1",
+    "pygments>=2.19.1",
+]
